@@ -7,6 +7,6 @@
 
 
 ## 自己紹介リスト
-- 
-- https://github.com/PUGPUG23/hello-world/intro
+- [竜大](https://github.com/RyudaiIwakami/hello-world/intro.md)
+- [大輔](https://github.com/RyudaiIwakami/hello-world/intro2.md)
 
