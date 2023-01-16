@@ -17,6 +17,7 @@
 - I love birds.
 - I love cars.
 - I wanna go to Hokkaido.
+- I want to be Howaki.
 
 
 - Photogragh that I took
